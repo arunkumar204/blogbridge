@@ -25,7 +25,7 @@ SECRET_KEY = ')z#3@%w(#m2(0nrrk^a0mu5rlo50byvbn_yn*bp#i@4pyt!9zo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['arun-blog-emnf.onrender.com']
 
 
 # Application definition
